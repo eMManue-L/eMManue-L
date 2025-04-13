@@ -39,6 +39,27 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ### ⚡ Fun Fact
-When I'm not coding, you'll find me 🎮 gaming or 🎨 creating digital art!
+When I'm not coding, you'll find me:  
+🏋️‍♂️ **Pumping iron** at the gym  
+🎨 **Creating** digital masterpieces  
+🏉 **Rugby mode** on - tackle hard, code harder!  
+☕ **Coffee addict** fueling my coding marathons  
+🎮 **Gaming** when I need a strategic timeout  
 
+**Life Motto**: *"Code like you're in the front row - with power, precision, and no fear of bugs!"* 💥
+🏆 **Recent Achievement**: Built my first 3D website that didn't crash my GPU!
+
+⚠️ **Warning**: May spontaneously talk about:  
+- The perfect React component structure ⚛️  
+- Why Django ORM is life 🐍  
+- Rugby tactics that oddly apply to debugging 🏉
+
+  🌞 **Daily Flow**:  
+`06:00` Gym → `09:00` Code → `13:00` Rugby → `18:00` More Code → `23:00` Dream in JavaScript
+
+🤔 **Known to**:  
+- Console.log() my feelings  
+- Argue with my code 🦆  
+- Celebrate when `npm install` works on first try 🎉
+  
 ![Visitor Count](https://komarev.com/ghpvc/?username=10974-spec&color=blueviolet)
